@@ -5,6 +5,10 @@ public class SampleClass {
 	{
 		System.out.println("Demo class");
 	}
+	public void NewDemoClass()
+	{
+		System.out.println("New demo class");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
